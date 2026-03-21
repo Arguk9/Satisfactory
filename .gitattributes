@@ -1,0 +1,2 @@
+*.sav binary
+*.sav filter=lfs diff=lfs merge=lfs -text
